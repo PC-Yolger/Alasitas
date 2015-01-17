@@ -1,0 +1,862 @@
+﻿{
+    "Historia":
+    [
+        {
+            "Texto":"La Feria de Alasita de La Paz es una expresión cultural, social y económica, que se ha originado y  celebra en la ciudad de La Paz y su entorno metropolitano, que consiste en la comercialización de miniaturas de diversa índole: Dinero, automóviles, casas, materiales de construcción, ropa, electrodomésticos, comida, etc. que los asistentes encomiendan al Ekeko, para su conversión en realidad en el futuro.",
+            "Imagen":"ms-appx:///Assets/portada.JPG"
+        },
+        {
+            "Texto":"El 24 de enero a horas 12:00, se inicia la feria  que se caracteriza por la interacción entre compradores (creyentes) que van en busca de miniaturas y vendedores que ofrecen una diversidad de objetos pequeños como iconos de la prosperidad  que se someten a un ritual que consiste básicamente en una ch´alla, rito andino que incluye una rociada con alcohol o vino, pétalos de flores, sahumerio, adornos coloridos y oraciones que mezclan tradiciones prehispánicas y católicas. Alasita viene del vocablo aimara alasitay que significa 'cómprame pues'",
+            "Imagen":"ms-appx:///Assets/portada.JPG"
+        },
+        {
+            "Texto":"Por Ley N° 2797 de 5 de agosto de 2004, se declara  Patrimonio Cultural e Intangible, a la fiesta de 'LA ALASITA', como manifestación cultural, social y económica de origen paceño y que se celebra en la ciudad de La Paz, El Alto y otras ciudades de Bolivia. La protección establecida en la presente Ley comprende al símbolo de esta fiesta y deidad Aymara 'El Ekeko' y cualquier otra manifestación y representación simbólica o gráfica de esta fiesta.",
+            "Imagen":"ms-appx:///Assets/portada.JPG"
+        },
+        {
+            "Texto":"La Ordenanza Municipal Nº 084/98 HAM - HCM 075/98 de 18 de agosto de 1998,  declara Patrimonios Culturales Tradicionales de la ciudad de La Paz al 'Ekeko' y a la 'Feria de Alasita'.",
+            "Imagen":"ms-appx:///Assets/portada.JPG"
+        },
+        {
+            "Texto":"La celebración de la 'Tradicional Feria de Alasita' y del 'Ekeko', constituye un espacio de fomento a la creatividad y el desarrollo del arte popular por la diversidad de productos manufacturados en miniatura comercializados y  que simbolizan bienes materiales y espirituales. Asimismo la figura del 'Ekeko' considerada una divinidad de la mitología Kolla-Aymara, que representa la fertilidad, felicidad y reproducción, constituyendo una importante expresión de la cultura y tradición andina paceña y boliviana.",
+            "Imagen":"ms-appx:///Assets/portada.JPG"
+        },
+        {
+            "Texto":"Según registros que existen en la Unidad de Patrimonio Inmaterial e Investigación Cultural del Gobierno Autónomo Municipal de La Paz, el  origen  de  Alasita data de la época  precolombina,  donde se tenía la costumbre de intercambiar piedrecillas consideradas illas de la reproducción y la fertilidad, entendidas como fuerza regeneradora de la reproducción humana.",
+            "Imagen":"ms-appx:///Assets/portada.JPG"
+        },
+        {
+            "Texto":"Se dice que originalmente esta fiesta se celebraba el 21 de diciembre con el solsticio de verano, durante la festividad del Willka Kuti o Qhapaj Raymi en la que se acostumbraba el intercambio de Illas. Durante la Colonia, esta fecha de celebración fue cambiada primero al 20 de octubre y posteriormente al 24 de enero. La fiesta de Alasita se origina en la época prehispánica y se legitima en 1782, en plena época colonial, a través de un decreto del gobernador Segurola que restablece la fiesta de las miniaturas trasladándola del mes de octubre, cuando se celebra la fundación de la ciudad, al 24 de enero como parte del agradecimiento a la Virgen de Nuestra Señora de La Paz.",
+            "Imagen":"ms-appx:///Assets/portada.JPG"
+        }
+    ],
+    "Sectores":
+    [
+        {
+            "Inicial":"A",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Sector de Expositores de Joyeria y Plateria",
+                    "NroExpositores":"43",
+                    "Productos":
+                    [
+                        "Joyeria",
+                        "Tejido a Mano"
+                    ]
+                },
+                {
+                    "Nombre":"Asoción de Vendedores de Billetitos de Alasita",
+                    "NroExpositores":"52",
+                    "Productos":
+                    [
+                        "Billetitos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Prod. Expositores en Miniatura Unión",
+                    "NroExpositores":"87",
+                    "Productos":
+                    [
+                        "Articulos en Cuero",
+                        "Billetitos",
+                        "Bromas",
+                        "Comidas",
+                        "Cuadros",
+                        "Flores",
+                        "Fruta Acaramelada",
+                        "Magia",
+                        "Tejido a Mano",
+                        "Yesos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Expositores 'Sector Masitas'",
+                    "NroExpositores":"86",
+                    "Productos":
+                    [
+                        "Masitas",
+                        "Capuccino",
+                        "Cereales",
+                        "Churros",
+                        "Confites",
+                        "Helados",
+                        "Palomitas de Maiz",
+                        "Refrescos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores Sector 20 de Enero Yeso",
+                    "NroExpositores":"104",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores Sector Potosí",
+                    "NroExpositores":"46",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Fotos en Miniatura",
+                        "Juguetes",
+                        "Mermeladas",
+                        "Plantas",
+                        "Tejido a Mano"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores en Yeso",
+                    "NroExpositores":"143",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Churros",
+                        "Cuadros",
+                        "Juegos",
+                        "Mermeladas",
+                        "Pronosticos",
+                        "Tallados en Piedra",
+                        "Tejidos"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"B",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Asociación Expositores Feria Alasitas Sector B",
+                    "NroExpositores":"64",
+                    "Productos":
+                    [
+                        "Artesanias en Aluminio",
+                        "Artesanias en Cuero",
+                        "Artesanias en Madera",
+                        "Artesanias en Miniatura",
+                        "Bisuteria",
+                        "Churros",
+                        "Hojalateria",
+                        "Lamparas",
+                        "Llaveros con Fotografia",
+                        "Ropa de Bebé",
+                        "Yesos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Expositores Miniatura Sector 'A'",
+                    "NroExpositores":"128",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Artesanias en Bordados",
+                        "Artesanias en Ceramica",
+                        "Artesanias en Cuero",
+                        "Artesanias en Flores",
+                        "Artesanias en Marmol",
+                        "Artesanias en Tejidos",
+                        "Artesanias en Tela",
+                        "Articulos en Cuero",
+                        "Bisuteria",
+                        "Plateria",
+                        "Café",
+                        "Chocolate",
+                        "Churros",
+                        "Confites",
+                        "Cuero",
+                        "Dulces",
+                        "Hojalateria",
+                        "Instrumentos",
+                        "Joyeria",
+                        "Lamparas",
+                        "Llaveros con Fotografia",
+                        "Miniaturas",
+                        "Peloteria",
+                        "Pines",
+                        "Pinturas al Oleo",
+                        "Porcelana Fria",
+                        "Pronosticos",
+                        "Retablos",
+                        "Ropa Impermeable",
+                        "Suerte",
+                        "Taraceado ne Madera",
+                        "Tazas",
+                        "Tejidos",
+                        "Tela",
+                        "Utencilios en Madera",
+                        "Yesos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores Sector Miniatura 'E'",
+                    "NroExpositores":"60",
+                    "Productos":
+                    [
+                        "Yesos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Sector Central 'D'",
+                    "NroExpositores":"184",
+                    "Productos":
+                    [
+                        "Yesos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores Sector 'Central Litoral'",
+                    "NroExpositores":"163",
+                    "Productos":
+                    [
+                        "Periodicos en Miniaturas",
+                        "Hojalateria",
+                        "Manteles",
+                        "Refrigerio",
+                        "Revistas",
+                        "Ropa",
+                        "Ropa en Miniatura",
+                        "Tapetes",
+                        "Titeres"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"C",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Asociación de Futbolines, Autódromos, Mini Billares",
+                    "NroExpositores":"66",
+                    "Productos":
+                    [
+                        "Apis",
+                        "Autodromos",
+                        "Café",
+                        "Comidas",
+                        "Futbolines",
+                        "Juegos",
+                        "Mate",
+                        "Minibillares",
+                        "Salchipapas",
+                        "Suerte Sin Blanca",
+                        "Té"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores en Distracción 24 de Enero",
+                    "NroExpositores":"39",
+                    "Productos":
+                    [
+                        "Ruleta",
+                        "Tiro al Blanco"
+                    ]
+                },
+                {
+                    "Nombre":"Expositores Sector Futbolines 24 de Enero",
+                    "NroExpositores":"17",
+                    "Productos":
+                    [
+                        "Futbolines"
+                    ]
+                },
+                {
+                    "Nombre":"Unión de Artesanos 20 de Octubre",
+                    "NroExpositores":"37",
+                    "Productos":
+                    [
+                        "Billetitos",
+                        "Futbolines",
+                        "Joyeria",
+                        "Juegos de Mesa",
+                        "Magia",
+                        "Palomitas de Maiz",
+                        "Tejidos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Juegos Populares y Oficios Varios",
+                    "NroExpositores":"29",
+                    "Productos":
+                    [
+                        "Argollas",
+                        "Arco",
+                        "Juegos de Diversion",
+                        "Ruleta",
+                        "Suerte Sin Blanca",
+                        "Tiro al Blanco"
+                    ]
+                },
+                {
+                    "Nombre":"Artesanos Arte Popular San Pedro",
+                    "NroExpositores":"34",
+                    "Productos":
+                    [
+                        "Arco",
+                        "Dulces",
+                        "Fantasia",
+                        "Flan en Miniatura",
+                        "Juegos Didacticos",
+                        "Libros",
+                        "Magia",
+                        "Mandiles Artesanales",
+                        "Miel",
+                        "Perfumes",
+                        "Palomitas de Maiz",
+                        "Quinua",
+                        "Raspadillos",
+                        "Refrescos",
+                        "Registro Civil",
+                        "Ropa de Lana en Miniatura",
+                        "Ropa Para Perros",
+                        "Ruleta",
+                        "Salchipapas",
+                        "Suerte Sin Blanca",
+                        "Tatuajes",
+                        "Tejidos",
+                        "Tiro al Blanco",
+                        "Venta de Hamburguesas Sofía",
+                        "Videos Agropecuarios",
+                        "Yogurt",
+                        "Zapatos"
+                    ]
+                },
+                {
+                    "Nombre":"Lotería Bolívar",
+                    "NroExpositores":"SIN DEFINICION",
+                    "Productos":
+                    [
+                        "Juegos"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"D",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Sector Comidas",
+                    "NroExpositores":"24",
+                    "Productos":
+                    [
+                        "Vivandera"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Aperas de Oruro",
+                    "NroExpositores":"17",
+                    "Productos":
+                    [
+                        "Apis",
+                        "Pasteles",
+                        "Pronosticos",
+                        "Suerte",
+                        "Vivandera"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"E",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Asociación de Expositores Juegos de Diversión",
+                    "NroExpositores":"46",
+                    "Productos":
+                    [
+                        "Juegos de Diversion"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Artesanos Andrés Bello",
+                    "NroExpositores":"13",
+                    "Productos":
+                    [
+                        "Artesanias"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Futbolines La Paz",
+                    "NroExpositores":"3",
+                    "Productos":
+                    [
+                        "Futbolines"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores Sector 'C'",
+                    "NroExpositores":"148",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Cuadros",
+                        "Refrigerio",
+                        "Suerte Sin Blanca"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"F",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Asociación de Expositores Artesanos 'Sector Decano'",
+                    "NroExpositores":"244",
+                    "Productos":
+                    [
+                        "Artesanias en Ceramica",
+                        "Artesanias en Madera",
+                        "Artesanias en Miniatura",
+                        "Bisuteria",
+                        "Churros",
+                        "Comidas",
+                        "Confites",
+                        "Futbolines",
+                        "Hojalateria",
+                        "Ropa en Miniatura",
+                        "Suerte en Blanco",
+                        "Tejidos"
+                    ]
+                },
+                {
+                    "Nombre":"Kori Ampara",
+                    "NroExpositores":"94",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Billetitos",
+                        "Fantasia",
+                        "Juegos",
+                        "Tejidos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Vieajeros 3 de Mayo Puno-Perú",
+                    "NroExpositores":"41",
+                    "Productos":
+                    [
+                        "SIN DEFINICION"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores Sector 'C'",
+                    "NroExpositores":"148",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Cuadros",
+                        "Refrigerios",
+                        "Suerte Sin Blanca"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"G",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Asociación de Expositores Artesanos 'Sector Decano'",
+                    "NroExpositores":"244",
+                    "Productos":
+                    [
+                        "Artesanias en Ceramica",
+                        "Artesanias en Madera",
+                        "Artesanias en Miniatura",
+                        "Bisuteria",
+                        "Churros",
+                        "Comidas",
+                        "Confites",
+                        "Futbolines",
+                        "Hojalateria",
+                        "Ropa en Miniatura",
+                        "Suerte en Blanco",
+                        "Tejido"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores Sector Humintas y Pan en Miniatura",
+                    "NroExpositores":"22",
+                    "Productos":
+                    [
+                        "Refrigerios"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"H",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Suerte y Pronósticos en Plomo 24 de Junio",
+                    "NroExpositores":"52",
+                    "Productos":
+                    [
+                        "Suerte",
+                        "Pronosticos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Sagrado Corazón Mixtos Artesanos",
+                    "NroExpositores":"42",
+                    "Productos":
+                    [
+                        "Algodon",
+                        "Artesanias",
+                        "Canchitas",
+                        "Carrusel",
+                        "Comidas",
+                        "Juegos",
+                        "Fotos en Miniatura",
+                        "Refrigerio"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Expositores Wiñay Wara",
+                    "NroExpositores":"46",
+                    "Productos":
+                    [
+                        "SIN DEFINICION"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores Sector 'C'",
+                    "NroExpositores":"148",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Cuadros",
+                        "Refrigerios",
+                        "Suerte Sin Blanca"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"I",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Asociación de Anticucheras y Choriceras 25 de Diciembre",
+                    "NroExpositores":"42",
+                    "Productos":
+                    [
+                        "Anticuchos"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Artesanos Unión Central",
+                    "NroExpositores":"14",
+                    "Productos":
+                    [
+                        "Artesanias"
+                    ]
+                },
+                {
+                    "Nombre":"Expositores Sector Futbolines '24 de Enero'",
+                    "NroExpositores":"17",
+                    "Productos":
+                    [
+                        "Futbolines"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Sector Central 'D'",
+                    "NroExpositores":"184",
+                    "Productos":
+                    [
+                        "SIN DEFINICION"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"K",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Asociación Artesanales Floricultores Urkupiña",
+                    "NroExpositores":"91",
+                    "Productos":
+                    [
+                        "Apis",
+                        "Artesanias en Miniatura",
+                        "Café",
+                        "Carrusel",
+                        "Comidas",
+                        "Futbolines",
+                        "Macetas",
+                        "Mate",
+                        "Plantas",
+                        "Refrescos",
+                        "Refrigerios",
+                        "Vivandera"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Instrumentos de Vientos Walata",
+                    "NroExpositores":"17",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Floricultores 24 de Enero",
+                    "NroExpositores":"78",
+                    "Productos":
+                    [
+                        "Comidas",
+                        "Macetas",
+                        "Plantas"
+                    ]
+                },
+                {
+                    "Nombre":"Sector apis 10 de Febrero",
+                    "NroExpositores":"17",
+                    "Productos":
+                    [
+                        "Apis",
+                        "Pasteles"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Expositores Sector Cochabamba",
+                    "NroExpositores":"154",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Comidas",
+                        "Café",
+                        "Té",
+                        "Mate",
+                        "Refrigerios"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Floricultores 'La Paz'",
+                    "NroExpositores":"89",
+                    "Productos":
+                    [
+                        "Comidas",
+                        "Macetas",
+                        "Plantas"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación de Artesanos y Expositores Lista de Carrusel",
+                    "NroExpositores":"25",
+                    "Productos":
+                    [
+                        "Juegos"
+                    ]
+                },
+                {
+                    "Nombre":"Artesanos Expositores Sector Central 'D'",
+                    "NroExpositores":"23",
+                    "Productos":
+                    [
+                        "SIN DEFINICION"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"R",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Asociación de Artesanos Orfefres San Eloy",
+                    "NroExpositores":"20",
+                    "Productos":
+                    [
+                        "Orfebreria",
+                        "Tejidos"
+                    ]
+                },
+                {
+                    "Nombre":"Sector Lozaz",
+                    "NroExpositores":"49",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura"
+                    ]
+                },
+                {
+                    "Nombre":"Asociación Creativos La Paz",
+                    "NroExpositores":"23",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura"
+                    ]
+                },
+                {
+                    "Nombre":"Kori Ampara",
+                    "NroExpositores":"94",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Billetitos",
+                        "Fantasia",
+                        "Juegos",
+                        "Tejidos"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inicial":"N",
+            "Asociaciones":
+            [
+                {
+                    "Nombre":"Asociación de Juegos Populares 4 de Julio 'Santa C'",
+                    "NroExpositores":"4",
+                    "Productos":
+                    [
+                        "Juegos"
+                    ]
+                },
+                {
+                    "Nombre":"Nuestra Señora de La Paz",
+                    "NroExpositores":"72",
+                    "Productos":
+                    [
+                        "Artesanias en Miniatura",
+                        "Refrescos"
+                    ]
+                },
+                {
+                    "Nombre":"Futbolines Decanos",
+                    "NroExpositores":"SIN DEFINICION",
+                    "Productos":
+                    [
+                        "Futbolines"
+                    ]
+                },
+                {
+                    "Nombre":"Unión de Artesanos 20 de Octubre",
+                    "NroExpositores":"37",
+                    "Productos":
+                    [
+                        "Billetitos",
+                        "Futbolines",
+                        "Joyeria",
+                        "Juegos de Mesa",
+                        "Magia",
+                        "Palomitas de Maiz",
+                        "Tejidos"
+                    ]
+                }
+            ]
+        }
+    ],
+    "Creditos":
+    [
+        {
+            "Departamento":"Alcalde",
+            "Imagen":"",
+            "Nombres":
+            [
+                "Omar Rocha Rojo"
+            ]
+        },
+        {
+            "Departamento":"Gobierno Municiapal de La Paz",
+            "Imagen":"",
+            "Nombres":
+            [
+            ]
+        },
+        {
+            "Departamento":"Secretaria Municipal de Promoción Económica",
+            "Imagen":"",
+            "Nombres":
+            [
+            ]
+        },
+        {
+            "Departamento":"Dirección de Competitividad y Emprendimiento",
+            "Imagen":"",
+            "Nombres":
+            [
+            ]
+        },
+        {
+            "Departamento":"Programa de Inovación y Creatividad",
+            "Imagen":"",
+            "Nombres":
+            [
+            ]
+        },
+        {
+            "Departamento":"Grupo de Estudios Microsoft",
+            "Imagen":"",
+            "Nombres":
+            [
+            ]
+        }
+    ],
+    "Programa":
+    [
+        {
+            "Inicio":"21 de Enero del 2015",
+            "Fin":"21 de Enero del 2015",
+            "Actividad":"Ritual al Ekeko",
+            "Lugar":"Campo Ferial - Sector del Monumento al Ekeko",
+            "HoraInicio":"11:30",
+            "HoraFin":"",
+            "Organizador":"GAMLP - OMC - FENAENA"
+        },
+        {
+            "Inicio":"24 de Enero del 2015",
+            "Fin":"24 de Enero del 2015",
+            "Actividad":"Inaguración de la Feria de Alasitas 2015",
+            "Lugar":"Av. del Ejército (Frente a la Puerta Principal del Campo Ferial del Bicentenario)",
+            "HoraInicio":"10:30",
+            "HoraFin":"",
+            "Organizador":"GAMLP - OMC - FENAENA"
+        },
+        {
+            "Inicio":"27 de Enero del 2015",
+            "Fin":"23 de Febrero del 2015",
+            "Actividad":"Museo de Alasita y el Ekeko",
+            "Lugar":"Av. del Ejército (Frente a la Puerta Principal del Campo Ferial del Bicentenario)",
+            "HoraInicio":"",
+            "HoraFin":"",
+            "Organizador":"GAMLP - OMC - FENAENA"
+        },
+        {
+            "Inicio":"29 de Enero del 2015",
+            "Fin":"29 de Enero del 2015",
+            "Actividad":"Elección del Ekeko",
+            "Lugar":"Plaza Eliodoro Camacho",
+            "HoraInicio":"10:30",
+            "HoraFin":"13:00",
+            "Organizador":"GAMLP - OMC - FENAENA"
+        },
+        {
+            "Inicio":"01 de Febrero del 2015",
+            "Fin":"01 de Febrero del 2015",
+            "Actividad":"Elección del Ekekito",
+            "Lugar":"Plaza Eliodoro Camacho",
+            "HoraInicio":"11:00",
+            "HoraFin":"12:30",
+            "Organizador":"GAMLP - OMC - FENAENA"
+        },
+        {
+            "Inicio":"01 de Febrero del 2015",
+            "Fin":"02 de Febrero del 2015",
+            "Actividad":"Ch'iti Feria de Alasita",
+            "Lugar":"Plaza Eliodoro Camacho",
+            "HoraInicio":"10:30",
+            "HoraFin":"15:00",
+            "Organizador":"GAMLP - OMC - FENAENA"
+        }
+    ]
+}

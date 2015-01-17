@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>0491bbd4-7db5-47ab-a8dc-2f265ef9032c</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Alasitas</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Common\NavigationHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\ObservableDictionary.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\RelayCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\SuspensionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataModel\Service.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ModelView\AssociationVM.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ModelView\HistoryVM.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ModelView\ProgramVM.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ModelView\SearchVM.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Alasita.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Asociacion.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Departamento.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Parrafo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Evento.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Sector.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Service\EventService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Service\NotificationService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Service\PageInvocationService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\logo_amarillo.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\portada.JPG">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Title_Title.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Common\ReadMe.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)DataModel\Alasita.json" />
+  </ItemGroup>
+</Project>
